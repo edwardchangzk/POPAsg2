@@ -1,0 +1,45 @@
+----------------------
+Username: ed
+Question 1: A. Kedah
+Question 2: D. Malacca
+Question 3: A. Nasi Lemak
+Question 4: A. Ice Kacang
+Final Score: 2
+----------------------
+
+----------------------
+Username: Bob
+Question 1: C. Penang
+Question 2: D. Malacca
+Question 3: A. Nasi Lemak
+Question 4: B. Cendol
+Final Score: 4
+----------------------
+
+----------------------
+Username: Jeff
+Question 1: B. Perlis
+Question 2: C. Sabah
+Question 3: A. Nasi Lemak
+Question 4: A. Ice Kacang
+Final Score: 1
+----------------------
+
+----------------------
+Username: Jack
+Question 1: C. Penang
+Question 2: D. Malacca
+Question 3: A. Nasi Lemak
+Question 4: A. Ice Kacang
+Final Score: 3
+----------------------
+
+----------------------
+Username: Jacob
+Question 1: A. Kedah
+Question 2: A. Johor
+Question 3: A. Nasi Lemak
+Question 4: A. Ice Kacang
+Final Score: 1
+----------------------
+

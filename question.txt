@@ -1,0 +1,4 @@
+1::C::Which state did Char Kuey Teow originate from?::A. Kedah::B. Perlis::C. Penang::D. Terengganu
+2::D::Which state did Chicken Rice Balls originate from?::A. Johor::B. Kelantan::C. Sabah::D. Malacca
+3::A::What is the name of the Malaysian dish in the picture?::A. Nasi Lemak::B. Nasi Kerabu::C. Tomyam::D. Curry Laksa
+4::B::What is the name of the Malaysian dish in the picture?::A. Ice Kacang::B. Cendol::C. Kuih Talim::D. Apam Balik
